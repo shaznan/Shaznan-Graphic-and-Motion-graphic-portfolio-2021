@@ -499,7 +499,7 @@ input:-webkit-autofill {
 /*------------------------ 2 Home ------------------------*/		
 
 .home{
-    background:url(/Background\ image.jpg) bottom center;
+    background:url(../Background-image.jpg) bottom center;
     width: 100%;
     background-size: cover;
     display: table;
